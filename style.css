@@ -660,3 +660,11 @@ a:hover{
 #header{
   background: #000 !important;
 }
+/*LightBox*/
+#imageData #imageDetails {
+    margin-bottom: 20px;
+}
+#bottomNavClose {
+    top: 10px;
+    right: 10px;
+}
